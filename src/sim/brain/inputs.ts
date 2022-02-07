@@ -1,0 +1,16 @@
+export enum INPUTS {
+    TIME,
+    RAND,
+    OSC,
+    HEALTH,
+    HUNGER,
+    THIRST,
+    EXHAUSTION,
+    HASDEST,
+    POSX,
+    POSY,
+    OBSTRUCTED,
+    HASMOVED,
+    TOUCHEDWALLS,
+    HASNEIGHBORS,
+}
